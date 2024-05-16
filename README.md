@@ -1,2 +1,2 @@
-# CMT
+# CMS
 constitution monitoring tool
